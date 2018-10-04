@@ -1,0 +1,80 @@
+header{
+	background-image: url(images/Gray.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 200px; 
+
+
+}
+
+h1{
+	text-shadow: 2px 2px #dda5e2;
+	text-align: center;
+}
+
+h5{
+	text-shadow: 2px 2px #dda5e2;
+}
+
+
+nav{
+	background-color: #dda5e2
+}
+
+nav .row .col:hover{
+	background-color: #D9005b
+}
+
+.pro{
+	hight: 800px;
+	width: 300px;
+}
+
+
+p{
+	text-align: center;
+	font-weight: bold;
+}
+
+.TheReason{
+	text-align: center;
+	padding: 25%
+
+}
+
+ .eye{
+	text-align: center;
+	background-color: #dda5e2;
+	text-shadow: #D9005b;
+}
+
+{
+	background-color: pink;
+}
+
+ hr {
+ 	border-width: 20px;
+ 	text-align: center;
+ }
+
+ .about {
+ 	background-color: #dda5e2
+ }
+
+
+ .color {
+ 	background-color: #dda5e2;
+ }
+ {
+ 	align-items: center;
+ }
+
+
+div{
+	align: center;
+}
+
+.container{
+	
+}
