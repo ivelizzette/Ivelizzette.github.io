@@ -82,6 +82,16 @@ div{
 .address{ 
 	display: block;
 	font-style: italic;
-	
+}
 
+.no{
+	background-color: #D9005b;
+}
+
+.no1{
+	background-color: #D9005b;
+}
+
+.no2{
+	background-color: #dda5e2;
 }
