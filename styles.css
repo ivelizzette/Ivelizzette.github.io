@@ -75,13 +75,12 @@ div{
 	align: center;
 }
 
-.container{
-	
-}
+
 
 .address{ 
 	display: block;
 	font-style: italic;
+
 }
 
 .no{
@@ -93,5 +92,13 @@ div{
 }
 
 .no2{
-	background-color: #dda5e2;
+	background-color: #D9005b;
+}
+
+.container-fluid{
+	background-color: #D9005b;
+}
+
+.img{
+	border-image: rounded; 
 }
