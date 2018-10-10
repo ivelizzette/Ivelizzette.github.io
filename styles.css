@@ -65,6 +65,7 @@ p{
 
  .color {
  	background-color: #dda5e2;
+ 	align-items: center;
  }
  {
  	align-items: center;
@@ -81,6 +82,11 @@ div{
 	display: block;
 	font-style: italic;
 
+}
+.center-block{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .no{
