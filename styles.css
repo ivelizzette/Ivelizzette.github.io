@@ -1,29 +1,29 @@
 header{
-	background-image: url(images/Gray.jpeg);
+	background-image: url(images/ss.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	height: 200px; 
+	height: 400px; 
 
 
 }
 
 h1{
-	text-shadow: 2px 2px #dda5e2;
+	text-shadow: 2px 2px #A480CD;
 	text-align: center;
 }
 
 h5{
-	text-shadow: 2px 2px #dda5e2;
+	text-shadow: 2px 2px #A480CD;
 }
 
 
 nav{
-	background-color: #dda5e2
+	background-color: #A480CD;
 }
 
 nav .row .col:hover{
-	background-color: #D9005b
+	background-color: #DB95B7;
 }
 
 .pro{
@@ -35,6 +35,7 @@ nav .row .col:hover{
 p{
 	text-align: center;
 	font-weight: bold;
+	text-shadow: #705341;
 }
 
 .TheReason{
@@ -45,8 +46,8 @@ p{
 
  .eye{
 	text-align: center;
-	background-color: #dda5e2;
-	text-shadow: #D9005b;
+	background-color: #A480CD;
+	text-shadow: #DB95B7;
 }
 
 {
@@ -56,15 +57,16 @@ p{
  hr {
  	border-width: 20px;
  	text-align: center;
+ 	background-color: #A480CD;
  }
 
  .about {
- 	background-color: #dda5e2
+ 	background-color: #A480CD;
  }
 
 
  .color {
- 	background-color: #dda5e2;
+ 	background-color: #A480CD;
  	align-items: center;
  }
  {
@@ -90,21 +92,30 @@ div{
 }
 
 .no{
-	background-color: #D9005b;
+	background-color: #DB95B7;
 }
 
 .no1{
-	background-color: #D9005b;
+	background-color: #DB95B7;
 }
 
 .no2{
-	background-color: #D9005b;
+	background-color: #DB95B7;
 }
 
 .container-fluid{
-	background-color: #D9005b;
+	background-color: #DB95B7;
 }
 
 .img{
 	border-image: rounded; 
 }
+
+.section .id .contact{
+	background-color: #DB95B7;
+}
+
+.contact{
+	background-color: #A480CD;
+}
+
